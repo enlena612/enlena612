@@ -22,9 +22,4 @@
 -->
 
 ## 📈 GitHub Stats
-## 📈 My Github Stats
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enlena612&theme=darkhub&margin-w=15&margin-h=15&coloumn=3&row=1" alt="itsmeshibintmz" /></a> </p>
-
-<p> <img src="https://github-readme-stats-enlena612.vercel.app/api?username=enlena612&show_icons=true&&line_height=25&width=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="shibinthomas" /> 
-
-<a href="http://www.github.com/enlena612"><img src="https://github-readme-streak-stats.herokuapp.com/?user=enlena612&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=enlena612)](https://github.com/enlena612/github-readme-stats)
