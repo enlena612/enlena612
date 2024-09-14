@@ -4,7 +4,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="45" /> About Me:
 
-#### I work as an Evangelist in the OPDC
+#### I work as an ...
 
 #### NOW
 - :smile: Learning all about **Open Source**
